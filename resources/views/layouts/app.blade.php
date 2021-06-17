@@ -10,6 +10,11 @@
         .active{
             color: red;
         }
+
+        img{
+            width: 200px;
+            height: 200px;
+        }
     </style>
 </head>
 <body>
