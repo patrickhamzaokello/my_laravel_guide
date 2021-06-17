@@ -9,11 +9,7 @@
 <body>
     <h1>Products</h1>
 
-    @foreach ($data as $item )
-        <p>
-            {{ $item }}
-        </p>
-    @endforeach
+<p>{{ $products }}</p>
  
 
 </body>
